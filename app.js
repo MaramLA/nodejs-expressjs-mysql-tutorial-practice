@@ -1,4 +1,3 @@
-// import { connectDB, createNote, getNote } from "./database.js";
 import dotenv from "dotenv";
 import express from "express";
 import { createNote, getNote, getNotes } from "./database.js";
